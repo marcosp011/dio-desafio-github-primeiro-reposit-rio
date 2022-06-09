@@ -1,0 +1,61 @@
+
+
+	Beneficios do Git e Git Hub
+
+- Controle de Versão
+- Armazenamento em Nuvem
+- Trabalho em equipe 
+- Melhorar seu código
+- Reconhecimento.
+
+	O que é GIT?
+
+- Criado pelo engenheiro de software Linus Torvalds, conhecido por ter desenvolvido, também, o núcleo Linux, o GIT é um Sistema de Controle de Versões Distribuídos - ou DVCS.
+
+- Estes sistemas de controle possuem a função de registrar quaisquer alterações feitas em cima de um código, armazenando essas informações e permitindo que, caso seja necessário, um(a) programador(a) possa regredir versões anteriores de uma aplicação de modo simples e rápido.
+
+- Esse tipo de sistema também simplifica muito o processo de compartilhamento de um projeto com um time, por exemplo, ou com outros(as) programadores(as).
+
+	Qual a vantagem de usar o GIT?
+
+- Para programadores(as) que utilizam o GIT, reincluir a funcionalidade é uma tarefa simples: basta buscar, em seu repositório, a versão que a contempla e retoma-la.
+
+- Para aqueles(as) que não utilizam, talvez seja necessário reescrever o código desta função, consumindo novamente o tempo gasto para desenvolvê-la da primeira vez.
+
+- Concluindo que uma das maiores vantagens de usar o GIT é a economia de tempo e recursos, uma vez que a consulta de diferentes versões de uma mesma aplicação é muito recorrente no trabalho do(a) programador(a).
+
+- Outro grande benefício do GIT é justamente o fato de ele ser um sistema distribuído.
+
+- Isso significa que, diferente de outros sistemas de controle de versionamento populares na época em que foi lançado, o GIT possui repositórios, e não somente um único local com o histórico de seu trabalho.
+
+	O que é o GitHub?
+
+- Uma espécie de rede social voltada a profissionais de TI cuja tecnologia que o sustenta é o GIT.
+
+- Em outras palabras, GitHub é uma plataforma totalmente online onde você pode criar repositórios e hospedar neles seus projetos, colaborar com softwares open source, seguir outros(as) programadores(as) e interagir com códigos de terceiros.
+
+	Para que serve o GitHub?
+
+- Fundamentalmente, para facilitar o controle de versões de um software ou aplicação.
+
+- As diferenças entre ele e o GIT, estão nas interações proporcionadas pelo GitHub, funcionando de modo semelhante à uma rede social.
+
+- É também o maior repositório de softwares de código aberto de toda a internet, tendo, inclusive, como um de seus maiores colaboradores quando o assunto é open souce a gigante Microsoft.
+
+	Qual a vantagem do GitHub?
+
+- São inúmeras, a maior delas, talvez, seja a oportunidade de aprender com programadores e programadoras mais experientes que você, especializado nas mesmas ou em diferentes áreas. 
+
+	Outros beneficios;
+
+- Possibilidade de acompanhar e colaborar com projetos de diferentes equipes;
+
+- Aprender programação na prática ao observar o avanço do desenvolvimento de aplicações de terceiros;
+
+- Participar de discussões a respeito de novas tecnologias;
+
+- Obter auxílio de outros programadores para resolver problemas relacionados a seus projetos.
+
+- Controlar as diferentes versões de um código com armazenamento em nuvem.
+
+- Registrar ações e projetos desenvolvidos por você em uma espécie de portfólio online, etc. 
