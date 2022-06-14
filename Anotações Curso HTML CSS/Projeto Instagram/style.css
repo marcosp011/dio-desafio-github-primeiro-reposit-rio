@@ -46,7 +46,7 @@ body{
 }
 
 /* Estilizando a imagem dentro da div */
-.instagram-photo img{
+.instagram-phone img{
     height: 50rem;
 }
 
@@ -56,4 +56,118 @@ body{
     align-items: center;
     justify-content: space-around;
     flex-direction: column;
+    width: 50%;
+    min-height: 34rem;
+}
+
+.group{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffffff;
+    width: 100%;
+    padding: 1.3em 0;
+    border: 1px solid lightgray;
+}
+
+/* nth-child = Um seletor de css, que pega os filhos do elemento. */
+.group:nth-child(1){
+    min-height: 19rem;
+}
+
+.instagram-logo{
+    height: 3rem;
+}
+
+/* Estilizando a foto do perfil */
+.profile-photo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+
+    /* A imagem não vaza pra fora da minha div */
+    overflow: hidden;
+}
+
+.profile-photo img{
+    height: 6rem;
+}
+
+.instagram-login{
+    background-color: #0095f6;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.instagram-logout{
+    color: #0095f6;
+    margin-top: 1rem;
+}
+
+/* Estilizando segundo container */
+.not-account{
+    color: rgb(160, 160, 160);
+}
+
+.link-blue{
+    color: #0095f6;
+}
+
+/* Estilizando terceiro container */
+.get-the-app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 1.3rem 0;
+}
+
+.download{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 1rem;
+}
+
+.app-download{
+    height: 3rem;
+    width: 10rem;
+    background-size: cover;
+}
+
+.app-download:nth-child(1){
+    background-image: url('./img/apple-button.png');
+}
+.app-download:nth-child(2){
+    background-image: url('./img/googleplay-button.png');
+}
+
+/* Configurando a responsividade da página */
+@media (max-width: 1024px){
+    .instagram-wrapper {
+        width: 90%;
+    }
+}
+
+@media (max-width: 650px){
+    body{
+        background-color: #ffffff;
+    }
+    .instagram-wrapper{
+        width: 90%;
+    }
+    .instagram-phone{
+        display: none;
+    }
+    .instagram-continue{
+        width: 100%;
+    }
+    .group{
+        border:1px solid transparent;
+    }
 }
