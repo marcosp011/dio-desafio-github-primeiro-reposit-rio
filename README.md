@@ -1,3 +1,3 @@
-# dio-desafio-github-primeiro-repositorio
+# Dio-Santander-Bootcamp
 
-Desafio de projeto Dio
+Santander Bootcamp
