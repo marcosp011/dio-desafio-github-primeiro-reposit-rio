@@ -1,4 +1,4 @@
-const BASE_URL = 'https://thatcopy.github.io/catAPI/imgs/jpg/2b74f7c.jpg';
+const BASE_URL = 'https://api.thecatapi.com/v1/images/search/';
 const catBtn = document.getElementById('change-cat');
 
 
@@ -7,7 +7,7 @@ const getCats = async () => {
     .then((res)=> res.json())
     .catch((e) => console.log(e));
 
-    return data.webpurl;
+    return json[0].url;
  };
 
 const loadImg = async () => {
